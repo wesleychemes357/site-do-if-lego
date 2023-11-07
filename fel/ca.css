@@ -1,0 +1,97 @@
+#filho{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+
+	width: 100%;
+	height: 20vh;
+	background-color: darkgreen;
+}
+#fimal{
+	width: 100%;
+	height: 40vh;
+	background-color: darkgreen;
+	margin-top: 30px;
+}
+#mae{
+	width: 100%;
+	height: 28vh;
+	background-color: lightgrey;
+	text-align: center;
+}
+}
+#logo{
+	margin-left: 40px;
+	margin-top: 20px;
+}
+#pesq{
+	margin-top: 25px;
+	margin-right: 20px;
+	font-size: 20px;
+	color: green;
+	
+}
+#azul{
+	margin-top: 15px;
+}
+#ai{
+	background-color: red;
+	width: 50%;
+	height: 60vh;
+}
+.eu{
+	background-color: green;
+	width: 100%;
+	height: 15vh;
+	margin-bottom: 20px;
+}
+#foof{
+	margin-top: 10px;
+
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+#nome{
+	width: 100%;
+	height: 100%;
+}
+#fos{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;	
+}
+#zap{
+	width: 100%;
+	height: 100%;
+}
+h1{
+	font-family: sans-serif;
+	color: #0000FF;
+}
+#guia{
+	width: 100%;
+	height: 100%;
+}
+#cen{
+	width: 100%;
+	height: 100%;
+}
+#est{
+	width: 100%;
+	height: 100%;
+}
+ input::placeholder{
+color: green;
+}
+@media(max-width: 760px){
+	#filho{
+		width: 100%;
+		height: 5vh
+	}
+	#logo{
+		text-align: center;
+	}
+}
